@@ -82,7 +82,7 @@ Email           :: sankpalpranav022@gmail.com
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,mysql,postgres,tensorflow,git,github,vscode,linux,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,c,js,mysql,postgres,tensorflow,git,github,vscode,linux,html,css"/>
 </p>
 
 ## Current Focus
