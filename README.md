@@ -1,19 +1,4 @@
-<div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1500&color=7AA2F7&center=true&vCenter=true&width=900&lines=Pranav+Sankpal;Data+Science+%7C+Machine+Learning;AI+Builder+%7C+Data+Analyst;Building+Intelligent+Solutions" />
-
-<p>
-<a href="https://github.com/Pranav-1719">
-<img src="https://komarev.com/ghpvc/?username=Pranav-1719&label=Profile+Views&color=7aa2f7&style=for-the-badge"/>
-</a>
-<a href="https://github.com/Pranav-1719?tab=followers">
-<img src="https://img.shields.io/github/followers/Pranav-1719?style=for-the-badge&color=7aa2f7"/>
-</a>
-</p>
-
-</div>
-
----
 
 ```text
 
