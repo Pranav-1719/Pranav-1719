@@ -1,165 +1,201 @@
+<div align="center">
 
+# Hi 👋, I'm Pranav Sankpal
 
-```text
+### Machine Learning Engineer • Data Analyst • AI Enthusiast
 
-██████╗ ██████╗  █████╗ ███╗   ██╗ █████╗ ██╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║
-██████╔╝██████╔╝███████║██╔██╗ ██║███████║██║   ██║
-██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║██╔══██║╚██╗ ██╔╝
-██║     ██║  ██║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝
+Building intelligent systems through Machine Learning, Data Analytics, and Business Intelligence.
 
-──────────────────────────────────────────────────────────────────────────────
+<p>
+  <a href="https://pranavvv.is-a.dev">🌐 Portfolio</a> •
+  <a href="https://github.com/Pranav-1719">GitHub</a> •
+  <a href="https://linkedin.com/in/pranav-s-sankpal">LinkedIn</a> •
+  <a href="mailto:sankpalpranav022@gmail.com">Email</a>
+</p>
 
-OS              :: Windows 11
-Kernel          :: MirAI AI Builder
-Education       :: B.Tech Computer Science Engineering (2023–2027)
-College         :: Government College of Engineering, Kolhapur
-Location        :: Maharashtra, India
+<img src="https://komarev.com/ghpvc/?username=Pranav-1719&label=Profile%20Views&color=0e75b6&style=flat" />
 
-──────────────────────────────────────────────────────────────────────────────
+</div>
 
-Languages       :: Python • SQL • JavaScript • C
-ML Frameworks   :: Scikit-Learn • TensorFlow • Keras
-Analytics       :: Pandas • NumPy • Tableau • Power BI • Excel
-Visualization   :: Matplotlib • Seaborn
-Databases       :: MySQL • PostgreSQL
-Tools           :: Git • GitHub • Streamlit • Jupyter • VS Code
+---
 
-──────────────────────────────────────────────────────────────────────────────
+## 👨‍💻 About Me
 
-Experience
+```yaml
+Name        : Pranav Sankpal
+Education   : B.Tech Computer Science Engineering (2023–2027)
+College     : Government College of Engineering, Kolhapur
+Location    : Maharashtra, India
 
-▸ AI Summer Intern
-  MirAI School of Technology
+Role        : Machine Learning Engineer
+Focus       : Data Analytics • AI • Business Intelligence
 
-▸ AI Data Analytics Intern
-  InAmigos Foundation
+Experience  :
+  - AI Summer Intern @ MirAI School of Technology
+  - AI Data Analytics Intern @ InAmigos Foundation
 
-──────────────────────────────────────────────────────────────────────────────
-
-Featured Projects
-
-▸ Audiobook Sales Dashboard
-▸ Employee Absenteeism Prediction
-▸ Stock Price Prediction System
-▸ Customer Churn Prediction
-▸ Deep Learning Practice Repository
-
-──────────────────────────────────────────────────────────────────────────────
-
-Certifications
-
-▸ Oracle AI Foundations Associate
-▸ Data Science Bootcamp (365 Careers)
-▸ McKinsey Forward Program
-▸ Lloyds Banking Group Data Science Simulation
-
-──────────────────────────────────────────────────────────────────────────────
-
-Current Focus
-
-▸ Machine Learning
-▸ Generative AI
-▸ Data Analytics
-▸ Business Intelligence
-▸ Quantitative Finance
-
-──────────────────────────────────────────────────────────────────────────────
-
-Portfolio       :: https://pranavvv.is-a.dev
-GitHub          :: https://github.com/Pranav-1719
-LinkedIn        :: https://linkedin.com/in/pranav-s-sankpal
-Email           :: sankpalpranav022@gmail.com
-
+Currently Learning :
+  - Production Machine Learning
+  - MLOps & Docker
+  - Generative AI
+  - Quantitative Finance
 ```
 
 ---
 
-# GitHub Statistics
+## 🛠 Tech Stack
 
-<div align="center">
+### Programming Languages
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav-1719&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,c,mysql,postgres&perline=8"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-1719&layout=compact&theme=tokyonight&hide_border=true"/>
+### Machine Learning & AI
 
-<br><br>
+<p>
 
-<img src="https://streak-stats.demolab.com?user=Pranav-1719&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/XGBoost-1F77B4?style=for-the-badge"/>
+
+</p>
+
+### Data Analytics
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-5A8FA8?style=for-the-badge"/>
+
+</p>
+
+### Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+</p>
 
 ---
 
-# Tech Stack
+# 💼 Experience
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,postgres,tensorflow,git,github,vscode,linux&theme=dark"/>
-
-</div>
-
----
-
-# GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-1719&theme=tokyo-night&hide_border=true"/>
-
-</div>
+| Position | Organization |
+|-----------|--------------|
+| AI Summer Intern | MirAI School of Technology |
+| AI Data Analytics Intern | InAmigos Foundation |
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pranav-1719&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# Featured Projects
+# 🚀 Featured Projects
 
 | Project | Description |
 |----------|-------------|
-| 📊 Audiobook Sales Dashboard | Interactive Tableau dashboard for audiobook sales analysis. |
-| 🤖 Employee Absenteeism Prediction | Logistic Regression model with deployment-ready pipeline. |
-| 📈 Stock Price Prediction | ML models using Linear Regression, Random Forest & Ensemble Learning. |
-| 📉 Customer Churn Prediction | Customer behavior analysis with predictive modeling. |
-| 🧠 Deep Learning Repository | TensorFlow & Keras implementations including ANN and CNN models. |
+| 📊 Walmart Sales Prediction | XGBoost model with Streamlit deployment and Tableau dashboard |
+| 📈 Stock Price Prediction | Machine Learning models for stock forecasting |
+| 📉 Customer Churn Prediction | Customer behavior analysis using classification models |
+| 🤖 Employee Absenteeism Prediction | End-to-end Logistic Regression pipeline |
+| 📚 Deep Learning Repository | ANN & CNN implementations using TensorFlow/Keras |
+| 📊 Audiobook Sales Dashboard | Interactive Tableau dashboard with business insights |
 
 ---
 
-# Connect With Me
+# 🏆 Certifications
 
-<div align="center">
+- Oracle AI Foundations Associate
+- Data Science Bootcamp — 365 Careers
+- McKinsey Forward Program
+- Lloyds Banking Group Data Science Job Simulation
 
-<a href="https://pranavvv.is-a.dev">
-<img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+---
 
-<a href="https://github.com/Pranav-1719">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+# 📈 GitHub Statistics
 
-<a href="https://linkedin.com/in/pranav-s-sankpal">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<p align="center">
 
-<a href="mailto:sankpalpranav022@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav-1719&show_icons=true&theme=github_dark&hide_border=true"/>
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-1719&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Pranav-1719&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-1719&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pranav-1719&theme=algolia&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 Machine Learning & Deep Learning
+- 📊 Data Analytics & Business Intelligence
+- ☁️ MLOps & Cloud Deployment
+- ⚡ Production AI Applications
+- 📈 Quantitative Finance
+- 🌍 Open Source Contributions
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://pranavvv.is-a.dev">🌐 Portfolio</a> •
+<a href="https://github.com/Pranav-1719">GitHub</a> •
+<a href="https://linkedin.com/in/pranav-s-sankpal">LinkedIn</a> •
+<a href="mailto:sankpalpranav022@gmail.com">Email</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### *"Transforming data into intelligent solutions through AI and analytics."*
+### *"Building intelligent systems that transform data into impactful solutions."*
+
+⭐ Thanks for visiting my profile!
 
 </div>
